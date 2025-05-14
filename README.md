@@ -1,4 +1,4 @@
-# IBM Data Science Professional Certificate
+# IBM Data Science Certificate
 
 <p align="center">
   </p>
